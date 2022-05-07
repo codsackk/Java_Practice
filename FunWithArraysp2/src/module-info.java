@@ -1,0 +1,2 @@
+module FunWithArraysP2 {
+}
